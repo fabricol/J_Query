@@ -37,6 +37,12 @@ button {
     cursor: pointer ;
 }
 
+form {
+    display: none;
+    background-color: #fff;
+    padding: 24px 0;
+}
+
 #botaoInutil {
     background-color: #936F5B ;
 }
